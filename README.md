@@ -144,3 +144,5 @@ additional components that are need to be configured separately.
     *   [PowerDNS](https://doc.powerdns.com/md/)
 
 [gae]:https://cloud.google.com/appengine/docs/about-the-standard-environment
+
+I'll soon run some system updates verifying it's accuracy and speed
